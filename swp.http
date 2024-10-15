@@ -1,0 +1,12 @@
+###
+http://localhost:8080/blog
+###
+http://localhost:8080/blog/search?query=Tips and tricks
+###
+http://localhost:8080/blog/filter?createdDate=2023-09-20T10:00:00
+
+###
+http://localhost:8080/posts
+
+###
+http://localhost:8080/feedback/posts/1
